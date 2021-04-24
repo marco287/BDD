@@ -1,0 +1,23 @@
+
+
+<resources>
+<string name="app_name">BDD</string>
+<string name="mercury">Mercure</string>
+<string name="venus">Venus</string>
+<string name="earth">Terre</string>
+<string name="mars">Mars</string>
+<string name="jupiter">Jupiter</string>
+<string name="saturn">Saturne</string>
+<string name="uranus">Uranus</string>
+<string name="neptune">Neptune</string>
+<string name="pluto">Pluton</string>
+<string name="nom">Nom</string>
+<string name="taille">Taille</string>
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="planet_nom">Nom de la planete</string>
+<string name="planet_taille">Taille planete </string>
+<string name="add_planet">Ajouter planete</string>
+<string name="name_invalid">Name is invalid</string>
+<string name="size_invalid">Size is invalid</string>
+</resources>
